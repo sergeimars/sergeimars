@@ -25,6 +25,6 @@
 
 [linkedin]: https://www.linkedin.com/in/sergeimars/
 [instagram]: https://www.instagram.com/servsl/
-[whatsapp]: https://www.wa.me/79999865606/
-[telegram]: https://www.t.me/servsl/
+[whatsapp]: https://api.whatsapp.com/send?phone=79999865606
+[telegram]: https://t.me/servsl/
 
