@@ -1,8 +1,12 @@
 ### Hi there, I'm Sergei - aka sergeimars👋
+#OPENTOWORK
 
 ### Connect with me:
+[<img align="left" alt="79999865606 | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="servsl | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="sergeimars | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="servsl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -21,3 +25,6 @@
 
 [linkedin]: https://www.linkedin.com/in/sergeimars/
 [instagram]: https://www.instagram.com/servsl/
+[whatsapp]: https://www.wa.me/79999865606/
+[telegram]: https://www.t.me/servsl/
+
