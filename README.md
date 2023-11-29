@@ -1,5 +1,5 @@
 ### Hi there, I'm Sergei - aka sergeimars👋
-#OPENTOWORK
+
 
 ### Connect with me:
 [<img align="left" alt="79999865606 | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
